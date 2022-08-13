@@ -20,7 +20,10 @@ Utilizes loops to make the robot run a course and pick up "points" at the end of
 A program that lets the robot run any solvable maze.
 
 ### Assignment 4: Guessing Game
+A game that prompts the user to guess a number between -64 to 64. The program keeps repeating till the user guesses the right number or they run out of their 7 allowed attempts, notifying them each time whether the number is larger or smaller than the guessed number.
 
+### Assignment 5: Graphical User Interfaces and Events
+A simple applet to display different movie posters which the user can choose from in a drop-down menu, utilizing JavaFX.
 
 ## CS1B (Intermediate Software Design in Java) Assignments
 
