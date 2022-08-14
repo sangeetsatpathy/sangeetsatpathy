@@ -42,6 +42,13 @@ Part 2: This program asks the user for the number of years of school they have b
 Part 3: This program serves as a basic calculator. It asks the user for a number, then the operator, then a second number.
 It then prints out the answer, rounded to 2 decimal places. <br>
 Part 4: This program calculates the cost of calls made, depending on the start time of the call and its duration. It also takes into account a tax, which is assumed to be 4%.
+### Assignment 4:
+Part 1: This program is a revision of the program in Assignment 1, which converts pounds to ounces. However, it will ask the user after every conversion whether they have another value they would like to convert. <br>
+Part 2: This program is a revision of the program in Assignment 1, which converts pounds to ounces. However, it will keep prompting the user to input a pound value until they enter a negative value, which exits the program. <br>
+Part 3: This program accounts for the ages of several attendees to an event. Each attendee's age and
+food preference (choices being popcorn, soda, or both) are recorded. The program then counts and prints the number
+of attendees in each age group, the average age (rounded to the tenth place), the oldest person, the youngest
+person, and the number of attendees who prefer each food preference.
 
 ## CS3A (Object-Oriented Methodologies in Python)
 
