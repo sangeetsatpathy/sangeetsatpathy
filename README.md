@@ -28,6 +28,14 @@ A simple applet to display different movie posters which the user can choose fro
 ## CS1B (Intermediate Software Design in Java) Assignments
 
 ## CS2A (Object-Oriented Methodologies in C++)
+This course served as an introduction to C++ and its various features.
+### Assignment 1:
+Part 1: Formatting and printing outputs <br>
+Part 2: storing variables.
+### Assignment 2:
+Part 1: Simple program that asks the user for a number of cents and calculates the number of each coin that would be required (assuming the smallest number of coins is preferred).
+Part 2: A program that converts an inputted Celsius value into Fahrenheit.
+Part 3: Practice with various string functions in C++.
 
 ## CS3A (Object-Oriented Methodologies in Python)
 
