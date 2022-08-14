@@ -75,6 +75,16 @@ This program counts the number of words in several text files. It will keep aski
 If they enter 'quit', it will exit the program. After each inputted filename, the number of words will be printed. If
 there was an error in opening the file, i.e the file doesn't exist, the program says so.
 
+### Assignment 6:
+This program draws a rocket, consisting of 2 cones at the top and bottom and several boxes called "phases".
+
+### Assignment 7:
+This is a simple math program which allows the user to customize their problem sets. There are 3 problem sets,
+one for addition, one for subtracting, and one for multiplication. The user can change the number of problems
+per set and the maximum number that can be generated. The program keeps track of the number of correct answers
+and prints out a report at the end of all 3 sets.
+
+### Assignment 8:
 
 
 ## CS3A (Object-Oriented Methodologies in Python)
