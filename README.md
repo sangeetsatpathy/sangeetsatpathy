@@ -30,25 +30,52 @@ A simple applet to display different movie posters which the user can choose fro
 ## CS2A (Object-Oriented Methodologies in C++)
 This course served as an introduction to C++ and its various features.
 ### Assignment 1:
-Part 1: Formatting and printing outputs <br>
-Part 2: storing variables.
+###### Part 1: 
+Formatting and printing outputs <br>
+###### Part 2: 
+storing variables.
 ### Assignment 2:
-Part 1: Simple program that asks the user for a number of cents and calculates the number of each coin that would be required (assuming the smallest number of coins is preferred). <br>
-Part 2: A program that converts an inputted Celsius value into Fahrenheit. <br>
-Part 3: Practice with various string functions in C++.
+###### Part 1:
+Simple program that asks the user for a number of cents and calculates the number of each coin that would be required (assuming the smallest number of coins is preferred). <br>
+###### Part 2:
+A program that converts an inputted Celsius value into Fahrenheit. <br>
+###### Part 3:
+Practice with various string functions in C++.
 ### Assignment 3:
-Part 1: A simple program which calculates the area of either a triangle or square. The user is asked if the shape they want is a triangle or square, then accordingly asks them for inputs and calculates the area. <br>
-Part 2: This program asks the user for the number of years of school they have been in. It then utilizes if-else statements to print out the school level they are in. <br>
-Part 3: This program serves as a basic calculator. It asks the user for a number, then the operator, then a second number.
+###### Part 1:
+A simple program which calculates the area of either a triangle or square. The user is asked if the shape they want is a triangle or square, then accordingly asks them for inputs and calculates the area. <br>
+###### Part 2:
+This program asks the user for the number of years of school they have been in. It then utilizes if-else statements to print out the school level they are in. <br>
+###### Part 3:
+This program serves as a basic calculator. It asks the user for a number, then the operator, then a second number.
 It then prints out the answer, rounded to 2 decimal places. <br>
-Part 4: This program calculates the cost of calls made, depending on the start time of the call and its duration. It also takes into account a tax, which is assumed to be 4%.
+###### Part 4:
+This program calculates the cost of calls made, depending on the start time of the call and its duration. It also takes into account a tax, which is assumed to be 4%.
 ### Assignment 4:
-Part 1: This program is a revision of the program in Assignment 1, which converts pounds to ounces. However, it will ask the user after every conversion whether they have another value they would like to convert. <br>
-Part 2: This program is a revision of the program in Assignment 1, which converts pounds to ounces. However, it will keep prompting the user to input a pound value until they enter a negative value, which exits the program. <br>
-Part 3: This program accounts for the ages of several attendees to an event. Each attendee's age and
+###### Part 1:
+This program is a revision of the program in Assignment 1, which converts pounds to ounces. However, it will ask the user after every conversion whether they have another value they would like to convert. <br>
+###### Part 2:
+This program is a revision of the program in Assignment 1, which converts pounds to ounces. However, it will keep prompting the user to input a pound value until they enter a negative value, which exits the program. <br>
+###### Part 3:
+This program accounts for the ages of several attendees to an event. Each attendee's age and
 food preference (choices being popcorn, soda, or both) are recorded. The program then counts and prints the number
 of attendees in each age group, the average age (rounded to the tenth place), the oldest person, the youngest
 person, and the number of attendees who prefer each food preference.
+
+### Assignment 5:
+###### Part 1:
+This program first prompts the user to enter in how many numbers they will be entering for the set. It then prompts
+them to enter each of the numbers. Once enterred, the program then prints out the position of the first and last
+7 in the dataset. If there are no 7's in the dataset, it says so.
+###### Part 2:
+This program keeps asking the user to enter a number. The program then calculates the sum of all the squares of the numbers
+below the inputted number. Inputting a number less than 1 into the prompt exits the program.
+###### Part 3:
+This program counts the number of words in several text files. It will keep asking the user to enter the name of the file.
+If they enter 'quit', it will exit the program. After each inputted filename, the number of words will be printed. If
+there was an error in opening the file, i.e the file doesn't exist, the program says so.
+
+
 
 ## CS3A (Object-Oriented Methodologies in Python)
 
