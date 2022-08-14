@@ -33,9 +33,15 @@ This course served as an introduction to C++ and its various features.
 Part 1: Formatting and printing outputs <br>
 Part 2: storing variables.
 ### Assignment 2:
-Part 1: Simple program that asks the user for a number of cents and calculates the number of each coin that would be required (assuming the smallest number of coins is preferred).
-Part 2: A program that converts an inputted Celsius value into Fahrenheit.
+Part 1: Simple program that asks the user for a number of cents and calculates the number of each coin that would be required (assuming the smallest number of coins is preferred). <br>
+Part 2: A program that converts an inputted Celsius value into Fahrenheit. <br>
 Part 3: Practice with various string functions in C++.
+### Assignment 3:
+Part 1: A simple program which calculates the area of either a triangle or square. The user is asked if the shape they want is a triangle or square, then accordingly asks them for inputs and calculates the area. <br>
+Part 2: This program asks the user for the number of years of school they have been in. It then utilizes if-else statements to print out the school level they are in. <br>
+Part 3: This program serves as a basic calculator. It asks the user for a number, then the operator, then a second number.
+It then prints out the answer, rounded to 2 decimal places. <br>
+Part 4: This program calculates the cost of calls made, depending on the start time of the call and its duration. It also takes into account a tax, which is assumed to be 4%.
 
 ## CS3A (Object-Oriented Methodologies in Python)
 
