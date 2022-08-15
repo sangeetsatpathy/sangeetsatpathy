@@ -85,7 +85,17 @@ per set and the maximum number that can be generated. The program keeps track of
 and prints out a report at the end of all 3 sets.
 
 ### Assignment 8:
+Programmed a class called Fraction, which represents a non-reducable fraction. Fractions can be set, added, subtracted,
+multiplied, divided, and can they can be checked for if 2 fractions are equal.
 
+### Assignment 9:
+Built upon Assignment 8. Removed the set() function from the Fraction class and replaced it with a constructor. In this Assignment, I split the class into a header file and an implementation file. The professor provided us with the client program to test if it worked.
+
+### Assignment 10:
+This program prompts the user to input several numbers to store into an array. If the number is already stored in
+the array, then it will not be added again. The program will keep asking the user to input numbers till they enter
+a negative number. The program finally prints out the array, excluding all the extra empty spaces that haven't been
+filled.
 
 ## CS3A (Object-Oriented Methodologies in Python)
 
