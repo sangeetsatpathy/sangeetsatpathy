@@ -99,6 +99,14 @@ filled.
 
 ## CS3A (Object-Oriented Methodologies in Python)
 
+### Temperature Mini-App
+Assignments 1-11 (with the exception of Assignment 5) were built on top of each other to make a Temperature App. This application allows users to perform queries on a temperature dataset provided through a .csv file. The temperatures are organized such that each reading is paired with a location of where the sensor is, the sensor number, and whether the sensor is active or not.
+These queries include finding the minimum, maximum, and average of all active temperatures. The program allows the user to pick from several options relating to the temperature, including: <br>
+selecting a new temperature file to process, changing the units in which all the data is processed in, toggling which sensors are active, and various ways of presenting the data.
+
+### Assignment 5
+A program to reverse a list using recursion.
+
 ## CS3B (Intermediate Software Design in Python)
 
 ## CS22A (Javascript for Programmers)
