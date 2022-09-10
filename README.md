@@ -129,6 +129,13 @@ toString(): returns a string containing each of the side lengths of the triangle
 Question 3: Implementing an Employee Class and its child class, ProductionWorker. The Employee class has attributes employee_name and employee_number. The ProductionWorker class has 2 additional attributes, shift_number and pay_rate.
 
 ### Assignment 2:
-Question 1: 
+####Question 1: 
+Implemented 2 functions - list_to_listofdicts(), which takes in 2 lists and 2 names, and returns a list of dictionary values based on this.
+The second function creates a dictionary of matching indeces of 2 lists.
+####Question 2:
+match_key_value_pairs(dict1, dict2): returns all the matching key-value pairs in both the dictionaries.
+sort_counter(dict): Sorts a dictionary and prints out the sorted values as tuples.
+####Question 3:
+Reverses a string.
 
 ## CS22A (Javascript for Programmers)
