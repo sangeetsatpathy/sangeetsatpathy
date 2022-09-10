@@ -128,4 +128,7 @@ toString(): returns a string containing each of the side lengths of the triangle
 
 Question 3: Implementing an Employee Class and its child class, ProductionWorker. The Employee class has attributes employee_name and employee_number. The ProductionWorker class has 2 additional attributes, shift_number and pay_rate.
 
+### Assignment 2:
+Question 1: 
+
 ## CS22A (Javascript for Programmers)
