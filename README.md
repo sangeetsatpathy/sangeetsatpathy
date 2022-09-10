@@ -108,5 +108,24 @@ selecting a new temperature file to process, changing the units in which all the
 A program to reverse a list using recursion.
 
 ## CS3B (Intermediate Software Design in Python)
+### Assignment 1:
+Question 1: Class implementation of a Circle. Includes instance variables of the x-value, y-value, radius. 
+Circle contains several methods listed below:
+min-x(): returns the minimum x-value of the circle
+min-y(): returns the minimum y-value of the circle
+max-x(): returns the maximum x-value of the circle
+max-y(): returns the maximum y-value of the circle
+getArea(): returns the area of the circle
+getPerimeter(): returns the circumference of the circle
+containsPoint(x, y): Returns true if the point inputted is within the circle, false if not.
+containsCircle(circle): Returns true if the circle inputted is completely contained within the current circle object.
+overlaps(circle): Returns true if the circle overlaps with the circle inputted.
+
+Question 2: Implementating of a Triangle Class. Triangle has 3 instance variables: the lengths of each side of the triangle (side1, side2, side3). Methods:
+getArea(): returns area of the triangle
+getPerimeter(): returns the perimeter of the triangle.
+toString(): returns a string containing each of the side lengths of the triangle.
+
+Question 3: Implementing an Employee Class and its child class, ProductionWorker. The Employee class has attributes employee_name and employee_number. The ProductionWorker class has 2 additional attributes, shift_number and pay_rate.
 
 ## CS22A (Javascript for Programmers)
