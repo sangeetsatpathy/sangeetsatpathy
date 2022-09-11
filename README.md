@@ -109,7 +109,8 @@ A program to reverse a list using recursion.
 
 ## CS3B (Intermediate Software Design in Python)
 ### Assignment 1:
-Question 1: Class implementation of a Circle. Includes instance variables of the x-value, y-value, radius. 
+#### Question 1:
+Class implementation of a Circle. Includes instance variables of the x-value, y-value, radius. 
 Circle contains several methods listed below:
 min-x(): returns the minimum x-value of the circle
 min-y(): returns the minimum y-value of the circle
@@ -121,21 +122,39 @@ containsPoint(x, y): Returns true if the point inputted is within the circle, fa
 containsCircle(circle): Returns true if the circle inputted is completely contained within the current circle object.
 overlaps(circle): Returns true if the circle overlaps with the circle inputted.
 
-Question 2: Implementating of a Triangle Class. Triangle has 3 instance variables: the lengths of each side of the triangle (side1, side2, side3). Methods:
+#### Question 2:
+Implementating of a Triangle Class. Triangle has 3 instance variables: the lengths of each side of the triangle (side1, side2, side3). Methods:
 getArea(): returns area of the triangle
 getPerimeter(): returns the perimeter of the triangle.
 toString(): returns a string containing each of the side lengths of the triangle.
 
-Question 3: Implementing an Employee Class and its child class, ProductionWorker. The Employee class has attributes employee_name and employee_number. The ProductionWorker class has 2 additional attributes, shift_number and pay_rate.
+#### Question 3:
+Implementing an Employee Class and its child class, ProductionWorker. The Employee class has attributes employee_name and employee_number. The ProductionWorker class has 2 additional attributes, shift_number and pay_rate.
 
 ### Assignment 2:
-####Question 1: 
+#### Question 1: 
 Implemented 2 functions - list_to_listofdicts(), which takes in 2 lists and 2 names, and returns a list of dictionary values based on this.
 The second function creates a dictionary of matching indeces of 2 lists.
-####Question 2:
+#### Question 2:
 match_key_value_pairs(dict1, dict2): returns all the matching key-value pairs in both the dictionaries.
 sort_counter(dict): Sorts a dictionary and prints out the sorted values as tuples.
-####Question 3:
+#### Question 3:
 Reverses a string.
 
 ## CS22A (Javascript for Programmers)
+### Assignment 2:
+An HTML page which prompts the user to input a Fahrenheit temperature, converts it to Celsius, and displays it.
+### Assignment 3:
+A web application that prompts the user to input data for the amount of sales that their company has had for 4 quarters from 2 regions. The app then displays the results, both sorted by quarter and by region. Finally, it displays the total sales.
+### Assignment 4:
+A simple website in which the user can input the amount of change they have, from 0-99 cents. The program provides an error if the number entered is not within that range. The program them prints out the number of Quarters, Dimes, Nickels, and Pennies needed to make that change, using the fewest number of coins.
+### Assignment 5:
+Program for a simple sales tax calculator. The user enters their subtotal($0-$1000) and their tax percentage(0% - 12%). Once they click the calculate button, the program will output the sales tax and the total amount. The user also has the option to clear all the textboxes on the site. If the user inputs a value outside of the  acceptable range, then the program will throw an alert message.
+### Assignment 6:
+A web app that keeps track of test scores. The user enters their name and their score. This can be inputted numerous times, with each value stored into an array. The user can then choose to display the results, showing the highest scorer along with their score. The user can also choose to show every person and their associated score.
+### Assignment 7:
+A web app that keeps track of the time (down the millisecond). The website additionally has a stopwatch embedded into it.
+### Assignment 8:
+This is the first JQuery Assignment. This Assignment is a simple information website on a book. The user can click on links on the page to show and hide related information.
+### Assignment 9:
+A program that displays the different book covers for the different editions of Murach's Javascript books utilizing animations. The user can click on different covers in the slide panels below, and the main image above it will fade out, moving left, change depending on what the user clicked, and fade in once the image has changed, moving right.
